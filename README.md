@@ -78,6 +78,10 @@
 <p align = "center">
  <img src="https://activity-graph.herokuapp.com/graph?username=ritik307&theme=redical">
 </p> 
+
+<p align = "center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnwgtq6y2k3c5ft563qe4zo2oy">
+</p>
+
 <hr>
 <p align="center">If you like it, do fork 🍴 and star ⭐</p>
-![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31xnwgtq6y2k3c5ft563qe4zo2oy)
