@@ -1,31 +1,19 @@
+<h2 align="center">
+<img src="https://github.com/kazeynx/kazeynx/blob/bdfaed93c97cdefc6185653b60b7ae1685e60b4f/kazeynx.gif"/>
+</h2>
 <p align="center">
- 
-</p align="center">
-<img src="https://github.com/kazeynx/kazeynx/blob/bdfaed93c97cdefc6185653b60b7ae1685e60b4f/kazeynx.gif" />
+Hi, welcome to my GitHub!
+I’m just trying to get better at coding and fix my "skill issue" one line at a time. I like learning new things, messing around with ideas, and figuring stuff out as I go.
+Most of what you’ll find here are small projects or experiments—nothing fancy, just me trying to improve and have fun with code.
+Feel free to look around, and if something interests you, reach out. I’m always open to chatting, learning, or getting feedback.
 
-<p align="center">
- 
- <img src="https://badges.pufler.dev/visits/ritik307/ritik307"/> 
- <!-- <img src="https://badges.pufler.dev/years/ritik307"/> -->
- <img src="https://badges.pufler.dev/repos/ritik307"/>
- <img src="https://badges.pufler.dev/commits/monthly/ritik307" />
-
-</p>
-
-<p align="center">
-  I'm a 3rd year student pursuing Master's in Computer Applications 🎓 from Guru Gobind Singh Indraprastha University 🏛. I'm a passionate learner who's always willing to learn and work across technologies and domains 💡. I love to explore new technologies and leverage them to solve real-life problems ✨. Apart from that I also love to guide and mentor newbies👨🏻‍💻. I'm deep into Web 🕸️ Development.
-</p>
 
 <h2 align="center">Technology Stack <img src="https://github.com/ritik307/ritik307/blob/main/images/laptop.gif" width="50"></h2>
 
 <p align="center">
- <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/-java-E34A86?style=flat-square&logo=java"/>
-<img src="https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c"/>
-<img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3"/>
-<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap"/>
-<img src="https://img.shields.io/badge/-Heroku-430098?style=flat-square&logo=heroku"/>
+<img src="https://img.shields.io/badge/-java-black?kstyle=flat-square&logo=java"/>
+<img src="https://img.shields.io/badge/-C++-black?style=flat-square&logo=c"/>
+<img src="https://img.shields.io/badge/-HTML5-black?style=flat-square&logo=html5&logoColor=white"/>
 <img src="https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript"/>
 <img src="https://img.shields.io/badge/-Nodejs-black?style=flat-square&logo=Node.js"/>
 <img src="https://img.shields.io/badge/-React-black?style=flat-square&logo=react"/>
@@ -50,16 +38,15 @@
 </a>
 </p>
 
-<h2 align="center">My Stats</h2>
+
+<h2 align="center">My stats</h2>
 
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=kazeynx&rank_icon=github&theme=radical&line_height=27">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=kazeynx&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
 </p>
-
 <p align = "center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=31xnwgtq6y2k3c5ft563qe4zo2oy">
 </p>
 
 <hr>
-<p align="center">If you like it, do fork 🍴 and star ⭐</p>
