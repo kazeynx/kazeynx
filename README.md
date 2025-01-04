@@ -8,7 +8,7 @@ Most of what you’ll find here are small projects or experiments—nothing fanc
 Feel free to look around, and if something interests you, reach out. I’m always open to chatting, learning, or getting feedback.
 <br><br><br><br>
  
-<h2 align="center">Languages & Database</h2>
+<h2 align="center">Languages &Toolse</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
