@@ -1,5 +1,5 @@
 <h2 align="center">
-<img src="https://github.com/kazeynx/kazeynx/blob/bdfaed93c97cdefc6185653b60b7ae1685e60b4f/kazeynx.gif"/>
+<img src="https://github.com/kazeynx/kazeynx/blob/main/kazeynx.gif"/>
 </h2>
 <p align="center">
 Hi, welcome to my GitHub!
