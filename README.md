@@ -8,7 +8,7 @@ Most of what you’ll find here are small projects or experiments—nothing fanc
 Feel free to look around, and if something interests you, reach out. I’m always open to chatting, learning, or getting feedback.
 <br><br><br><br>
  
-<h2 align="center">Languages &Toolse</h2>
+<h2 align="center">Languages & Tools</h2>
 <p align="center">
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white"/>
 <img src="https://img.shields.io/badge/HTML5%20-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
@@ -20,7 +20,9 @@ Feel free to look around, and if something interests you, reach out. I’m alway
 <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
 <br><br><br><br>
 
-<h2 align="center">my github stats</h2>
+<h2 align="center">MY STATS</h2>
+<p align = "center">
+<a href="https://stackoverflow.com/users/22532287/arif-nur-rachman"><img src="https://stackoverflow.com/users/flair/22532287.png" width="208" height="58" alt="profile for Arif Nur Rachman at Stack Overflow, Q&amp;A for professional and enthusiast programmers" title="profile for Arif Nur Rachman at Stack Overflow, Q&amp;A for professional and enthusiast programmers"></a>
 <p align = "center">
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kazeynx&theme=radical"/>
 </p>
